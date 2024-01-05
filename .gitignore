@@ -1,0 +1,13 @@
+palm_env/
+
+reserve/
+.ipynb_checkpoints/
+templates/
+static/
+__pycache__/
+
+imp_links.txt
+
+
+
+.env
